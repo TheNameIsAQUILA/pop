@@ -1,5 +1,7 @@
 # pointer 
 
+<pre>
+'''
 #include<stdio.h>
 #include<math.h>
 int main()
@@ -90,7 +92,8 @@ for (j = 0; s2[j] != '\0'; i++, j++) s1[i]
 = s2[j]; //copy content of s2 to s1
 s1[i] = '\0'; 
 }
-
+'''
+</pre>
 
 
 # matrix multiplication
