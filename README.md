@@ -29,7 +29,7 @@ int main() {
     printf("Standard deviation = %.3f\t", std);
     return 0;
 }
-
+```
 
 # string
 
@@ -86,7 +86,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 # dbms
 
@@ -203,6 +203,9 @@ int main() {
 
     return 0;
 }
+```
+
+# calendar
 
 ```c
 #include <stdio.h>
@@ -266,6 +269,7 @@ int main() {
 
     return 0;
 }
+```
 
 # matrix multiplication
 
@@ -336,3 +340,4 @@ int main() {
 
     return 0;
 }
+```
